@@ -9,3 +9,4 @@ spring:
           basedir: F:\\liulinspace\\baseDir
 server:
   port: 8302
+profile: text
